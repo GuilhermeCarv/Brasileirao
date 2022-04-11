@@ -16,3 +16,9 @@ O intuito do projeto, além da análise dos dados em si, é exercitar de forma p
 * [Artigo meu desse projeto no Medium](https://medium.com/@guilherme_carvalho/brasileir%C3%A3o-an%C3%A1lise-do-campeonato-de-2003-a-2020-6e4fb66f1f94)
 * [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho08/)
 
+## Data visualizations:
+
+![newplot (12)](https://user-images.githubusercontent.com/60260984/162647359-7038f3c3-36e6-4674-aaa2-ada28bc74561.png)
+![newplot (13)](https://user-images.githubusercontent.com/60260984/162647374-a1c806c0-909e-4694-9520-658465e85df2.png)
+![newplot (14)](https://user-images.githubusercontent.com/60260984/162647423-fb8889a8-42d2-4df5-81a9-81bf1f8a6766.png)
+![newplot (15)](https://user-images.githubusercontent.com/60260984/162647389-5cf102cf-2520-4f0b-88b4-0492013695e7.png)
